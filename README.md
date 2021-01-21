@@ -6,5 +6,5 @@ Visualization of A <sup> * </sup> search algorithm made with Python3 and pygame
   <li> Python </li>
   <li> Pygame </li>
 
-
+<br>
 Thanks to Tim from <li> Tech With Tim </li> for his detailed tutorial!
